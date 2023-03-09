@@ -59,16 +59,15 @@ sudo apt install python3-django
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/MHMAD-ALAA/Django-Blog.git
    ```
-3. Go to working direcotry
+2. Go to working direcotry
    ```sh
    cd firstdjango
    ```
-4. Run the command 
+3. Run the command 
    ```js
    python managae.py runserver
    ```
