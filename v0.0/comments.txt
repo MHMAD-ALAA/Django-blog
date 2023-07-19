@@ -1,3 +1,0 @@
-
-for post in pjson:
-    post = Post(title=post['title'], content=post['content'], date_posted=datetime.datetime.now(), author_id=post['user_id'])
