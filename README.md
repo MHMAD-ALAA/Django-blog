@@ -1,7 +1,10 @@
+# maQal
+
+
 <!-- TABLE OF CONTENTS -->
-<details>
+<!-- <details>
   <summary>Table of Contents</summary>
-  <ol>
+  <ul>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -18,15 +21,14 @@
     <li>
     <a href="#features">Features</a>
     </li>
-  </ol>
-</details>
+  </ul>
+</details> -->
 
 
-# Modem
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ## About The Project -->
 * This is a Blog website, where you can publish posts, articles or anything
 * There is a Home bage where all users posts are ordered with the published data
 * Each user has his own account where it contains his posts, 
@@ -66,14 +68,14 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/MHMAD-ALAA/Django-Blog.git
+   git clone https://github.com/mhmad-alaa/maQal.git
    ```
 2. Go to working direcotry
    ```sh
-   cd firstdjango
+   cd maQal/maqal/
    ```  
 3. Run the command 
-   ```js
+   ```python
    python managae.py runserver
    ```
 
